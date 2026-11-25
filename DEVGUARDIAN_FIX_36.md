@@ -2,4 +2,11 @@
 
 Finding ID: 36
 
-AI explanation unavailable right now — the Gemini API call failed after retries.
+It looks like you forgot to include the problem! 
+
+Please reply with:
+1. **The code or text** you need help with.
+2. **The error message** or unexpected behavior you are seeing (if applicable).
+3. **What you are trying to achieve** (the goal).
+
+Once you share that, I'll give you a fix right away!
